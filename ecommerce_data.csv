@@ -1,0 +1,22 @@
+User_ID,Product,Category,Rating
+U1,Wireless Mouse,Electronics,5
+U1,Laptop Bag,Accessories,4
+U1,USB Cable,Electronics,4
+U2,Smart Watch,Electronics,5
+U2,Bluetooth Speaker,Electronics,4
+U2,Power Bank,Electronics,5
+U3,Coffee Mug,Home,3
+U3,Water Bottle,Home,4
+U3,Notebook,Stationery,5
+U4,Keyboard,Electronics,5
+U4,Headphones,Electronics,4
+U4,Phone Case,Accessories,5
+U5,Pen Set,Stationery,4
+U5,Desk Lamp,Home,5
+U5,Backpack,Accessories,4
+U6,Laptop Stand,Electronics,5
+U6,Webcam,Electronics,4
+U6,Mouse Pad,Accessories,4
+U7,Study Table,Furniture,5
+U7,Office Chair,Furniture,4
+U7,Table Lamp,Home,5
